@@ -51,3 +51,4 @@ rsconnect/
 
 # Large files
 0_data/*
+*/0_data/*
